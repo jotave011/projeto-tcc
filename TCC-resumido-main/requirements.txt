@@ -1,0 +1,7 @@
+gradio
+requests
+e2b_desktop
+smolagents
+Pillow
+huggingface_hub
+openai
