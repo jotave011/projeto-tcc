@@ -153,10 +153,10 @@ body {
 
 /* Campo de input */
 #message-input {
-    background: #ffffff !important;
+    background: #384155 !important;
     border: 2px solid #2a2a2a !important;
     border-radius: 10px !important;
-    padding: 14px !important;
+    padding: 14px !important; 
     font-size: 14px !important;
     color: #374151 !important;
     font-family: 'Roboto Mono', monospace !important;
