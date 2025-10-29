@@ -326,7 +326,7 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css, title="💻 Seu Agente Vi
 
     gr.HTML("""
         <div class="title">💻 Seu Agente Virtual</div>
-        <div class="subtitle">Interface inteligente com Grok AI • Powered by xAI</div>
+        <div class="subtitle">Agente Pessoal</div>
     """)
 
     status_html = gr.HTML(obter_status_html())
