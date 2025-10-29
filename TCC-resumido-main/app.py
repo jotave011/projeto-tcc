@@ -350,7 +350,7 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css, title="💻 Seu Agente Vi
             elem_id="message-input",
             scale=4,
             show_label=False,
-            lines=2
+            lines=1
         )
 
     with gr.Row():
