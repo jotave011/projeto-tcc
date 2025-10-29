@@ -325,8 +325,8 @@ def obter_status_html() -> str:
 with gr.Blocks(theme=gr.themes.Soft(), css=custom_css, title="💻 Seu Agente Virtual") as app:
 
     gr.HTML("""
-        <div class="title">💻 Seu Agente Virtual</div>
-        <div class="subtitle">Agente Pessoal</div>
+        <div class="title">💻 K.A.R.E.N</div>
+        <div class="subtitle">Sua Assistente Virtual</div>
     """)
 
     status_html = gr.HTML(obter_status_html())
